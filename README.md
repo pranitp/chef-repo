@@ -1,4 +1,0 @@
-chef-repo
-=========
-
-learning chef
